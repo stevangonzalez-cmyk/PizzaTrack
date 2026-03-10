@@ -44,3 +44,5 @@ Agregar aquí el enlace del video:
 https://github.com/stevangonzalez-cmyk/PizzaTrack
 
 ## Proyecto desarrollado para la actividad de Estructura de Datos.
+## Sistema PizzaTrack implementado con listas ligadas y pilas manuales.
+
