@@ -42,3 +42,5 @@ Agregar aquí el enlace del video:
 ## Repositorio GitHub
 
 https://github.com/stevangonzalez-cmyk/PizzaTrack
+
+## Proyecto desarrollado para la actividad de Estructura de Datos.
