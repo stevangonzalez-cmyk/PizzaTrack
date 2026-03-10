@@ -36,7 +36,7 @@ Pizza-Track es una aplicación en consola que permite registrar pedidos de pizza
 
 ## Video de sustentación
 
-https://drive.google.com/file/d/1ypJ_ogQkK5S1Rv5svu8R_syCfev3mUQl/view?usp=sharing
+https://drive.google.com/file/d/1R3FBP-tksxvH-Sr1VA_7HIGsZxghOuqF/view?usp=sharing
 
 
 ## Repositorio GitHub
